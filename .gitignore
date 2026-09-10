@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+credentials.json
+token.json
+
+*_REAL_BACKUP.csv
+master_backup/
+
+.env
+.streamlit/secrets.toml
